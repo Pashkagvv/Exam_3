@@ -25,6 +25,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df740304-5ec0-4a98-9d50-a6e47f101bac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/psd/creativesolutions.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/psd/creativesolutionsjpg.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +65,11 @@
               <item name="экзамен_3" type="b2602c69:ProjectViewProjectNode" />
               <item name="экзамен_3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="экзамен_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="экзамен_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Эказмен 3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -99,12 +106,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559964185261</updated>
       <workItem from="1559964186682" duration="941000" />
-      <workItem from="1559973351499" duration="288000" />
+      <workItem from="1559973351499" duration="610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1229000" />
+    <option name="totallyTimeSpent" value="1551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
