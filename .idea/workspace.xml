@@ -23,7 +23,195 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d30d51a0-7df2-48af-b989-1a3d552b12db" name="Default" comment="" />
+    <list default="true" id="df740304-5ec0-4a98-9d50-a6e47f101bac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.eslintrc.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.idea/dictionaries/Front_End.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.idea/Эказмен 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.jsbeautifyrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/.stylelintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/AboutUs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/Campofrío_Home_a1_1800.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/Icon-Address.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/Icon-Tell.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconAddress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconGraphic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconMarker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconMobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconMobileNumber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconSEO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconServices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconTeam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconWeb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/IconWorks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/Layer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/Layer4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/Layer5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/OurServicesBG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/Pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/about_img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/arrowLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/arrowRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/arrowTop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/behance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/google+.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/header_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/linked-in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/img/works-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/js/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/js/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/dist/js/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/docs/blocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/docs/deploying.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/docs/file-structure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/docs/getting-started.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/docs/gulp-tasks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/docs/icons.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/docs/pages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/gulp/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/gulp/tasks/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/gulp/tasks/fonts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/gulp/tasks/html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/gulp/tasks/icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/gulp/tasks/img.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/gulp/tasks/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/prepros-6.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/about/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/about/about.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/about/about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/common/icon/icon.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/common/page/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/common/page/page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/contact/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/contact/contact.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/contact/contact.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/footer/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/footer/footer.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/header/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/header/header.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/header/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/navigation/navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/navigation/navigation.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/navigation/navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/ourteam/ourteam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/ourteam/ourteam.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/ourteam/ourteam.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/services/services.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/services/services.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/services/services.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/works/works.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/works/works.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/blocks/works/works.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/fonts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/icons/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/icons/Icon-Services.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/AboutUs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/Campofrío_Home_a1_1800.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/Icon-Address.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/Icon-Tell.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconAddress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconGraphic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconMarker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconMobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconMobileNumber.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconSEO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconServices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconTeam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconWeb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/IconWorks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/Layer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/Layer4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/Layer5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/OurServicesBG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/Pin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/about_img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/arrowLeft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/arrowRight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/arrowTop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/behance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/google+.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/header_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/linked-in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/img/works-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/CONTRIBUTING.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/README.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick.jquery.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/config.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/slick-theme.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/slick-theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/slick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/slick.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/plugins/slick-1.8.1/slick/slick.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/js/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/pug/data/globals.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/pug/data/pages/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/pug/data/pages/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/pug/layouts/base.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/pug/pages/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/sass/_base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/sass/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/sass/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/sass/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/sass/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/sass/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/sass/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/templates/block.js.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/templates/block.pug.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/templates/block.scss.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/src/templates/icon.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/utils/make-block" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Эказмен 3/webpack.config.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +224,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,6 +232,9 @@
         <option value="SCSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,7 +280,7 @@
     </option>
   </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="pVDIHVWG" />
+    <option name="directoryName" value="yTZdoJVY" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -97,6 +288,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -107,41 +299,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Эказмен 3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Эказмен 3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Эказмен 3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Эказмен 3" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Эказмен 3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Эказмен 3" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Эказмен 3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Эказмен 3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Эказмен 3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Эказмен 3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="blocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Эказмен 3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Эказмен 3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Эказмен 3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Эказмен 3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="экзамен_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="экзамен_3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,8 +309,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../экзамен_3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
@@ -235,12 +395,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211892000" />
+    <option name="totallyTimeSpent" value="211939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -259,7 +419,7 @@
       <window_info anchor="bottom" id="CSS-X-Fire" order="11" />
       <window_info anchor="bottom" id="TeamCity" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50075644" side_tool="true" weight="0.24744028" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="14" sideWeight="0.49924356" visible="true" weight="0.45051193" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="14" sideWeight="0.49924356" visible="true" weight="0.32935154" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
